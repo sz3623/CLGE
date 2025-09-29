@@ -1,5 +1,4 @@
-# CLGE
-# *Compressed LiDAR  geometry enhancement*
+# CLGE: *Compressed LiDAR  geometry enhancement*
 
 **Demo**: The dataset and training method are different from those in the original paper.
 
