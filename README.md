@@ -12,6 +12,8 @@ The KITTI sequences are compressed in the G-PCC reference software TMC13v22 with
   title={Post-Processing Geometry Enhancement for G-PCC Compressed LiDAR via Cylindrical Densification},
   author={Liu, Wang and Li, Zhuangzi and Li, Ge and Ma, Siwei and Kwong, Sam and Gao, Wei},
   journal={IEEE Transactions on Image Processing},
+  volume={35},
+  pages={1066--1081},
   year={2026},
   publisher={IEEE}
 }
